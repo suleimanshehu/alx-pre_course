@@ -1,0 +1,5 @@
+[user]
+	email = suleimanshehutijjani@gmail.com
+	name = Suleiman Tijjani Shehu
+[core]
+	excludesfile = /root/.gitignore_global
